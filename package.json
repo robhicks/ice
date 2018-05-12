@@ -3,6 +3,7 @@
   "description": "Track changes in JavaScript.",
   "version": "0.5.0",
   "author": "Matthew DeLambo <delambo@gmail.com>",
+  "main": "ice-master.min.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/nytimes/ice"
